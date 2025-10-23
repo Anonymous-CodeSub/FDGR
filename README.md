@@ -31,7 +31,7 @@ results on both distortion-based and perception-based quality metrics. The ablat
 ### Installation
 To clone this repository and the code, run:
 ```
-git@github.com:JiaqiZhang-Sengoku/D4PGR.git
+git@github.com:Anonymous-CodeSub/FDGR.git
 ```
 
 ### Environment
@@ -122,7 +122,7 @@ Additional results can be found in the paper, including PSNR, LPIPS, SSIM and FI
 
 ## 😊 Acknowledgements
 
-Our implementation is built upon [DDRM](https://github.com/bahjat-kawar/ddrm), [DDNM](https://github.com/wyhuai/DDNM), and [DDGR](https://github.com/tirer-lab/DDPG). We thank the authors for their excellent work.
+Our implementation is built upon [DDRM](https://github.com/bahjat-kawar/ddrm), [DDNM](https://github.com/wyhuai/DDNM), and [DDPG](https://github.com/tirer-lab/DDPG). We thank the authors for their excellent work.
 
 We sincerely thank everyone for their tremendous contributions to this project, and extend our gratitude to the editors and reviewers for their dedicated work!
 
